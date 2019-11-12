@@ -30,15 +30,15 @@ define({
   // hosted version of the application can apply custom styles
   // not used in the download version.
   "customstyle": null,
-  "background": "#444",
+  "background": "#005696",
   "color": "#fff",
   "legendTitleBackground": "#767676",
   "subtitleColor": "#CECECE",
   "legendTitleColor": "#fff",
   "showTitle": true,
   "showSubTitle": true,
-  "title": null,
-  "subtitle": null,
+  "title": "Culvers Locations",
+  "subtitle": "Home of the ButterBurger",
   "showLogo": true,
   "logoLink": "https://www.esri.com",
   "logo": "./images/esrilogo.png",
