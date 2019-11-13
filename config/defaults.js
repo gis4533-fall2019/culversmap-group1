@@ -37,7 +37,7 @@ define({
   "legendTitleColor": "#fff",
   "showTitle": true,
   "showSubTitle": true,
-  "title": "Culvers Locations",
+  "title": "Culver's Locations",
   "subtitle": "Home of the ButterBurger",
   "showLogo": true,
   "logoLink": "https://www.esri.com",
