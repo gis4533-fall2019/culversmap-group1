@@ -118,7 +118,7 @@ body {
 }
 
 #title {
-  font-family: "open_sanssemibold", sans-serif;
+  font-family: "BrothersBold", sans-serif;
   height: 55px;
   padding-left: 4px;
   padding-top: 1px;
@@ -150,12 +150,12 @@ form {
 }
 
 #subtitle {
-  font-family: "open_sansregular", sans-serif;
+  font-family: "LeagueGothicRegular", sans-serif;
   padding-left: 4px;
   line-height: 50px;
   word-wrap: break-word;
   height: 54px;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 400;
   overflow-x: hidden;
   overflow-y: auto !important;
@@ -308,7 +308,7 @@ img {
 }
 
 #legendDiv {
-  font-family: "open_sansregular", sans-serif;
+  font-family: "LeagueGothicRegular", sans-serif;
   background: #fff;
   max-height: 410px;
   overflow: auto;
@@ -343,7 +343,7 @@ img {
 #legTogText {
   font-size: 14px;
   line-height: 18px;
-  font-family: "open_sansregular", sans-serif;
+  font-family: "LeagueGothicRegular", sans-serif;
   position: relative;
   margin: auto;
   margin-left: 30px;
