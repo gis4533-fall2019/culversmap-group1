@@ -32,7 +32,7 @@ define({
   "customstyle": null,
   "background": "#005696",
   "color": "#fff",
-  "legendTitleBackground": "#767676",
+  "legendTitleBackground": "#007fb0",
   "subtitleColor": "#CECECE",
   "legendTitleColor": "#fff",
   "showTitle": true,
